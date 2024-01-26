@@ -6,33 +6,24 @@
 
 - **Name**: Toluwanimi Sonuga
 - **Location**: Lagos, Nigeria 
--
 - **Interests**: [Your Interests, Hobbies, or Specializations]
 
 ## Projects Highlights
 
 Here are some of the projects I've been working on:
 
-1. **[Project Name]**: [Brief description of the project and its significance. Provide a link if it's hosted elsewhere or has a dedicated repository.]
-2. **[Project Name]**: [Brief description of the project and its significance. Provide a link if it's hosted elsewhere or has a dedicated repository.]
-3. **[Project Name]**: [Brief description of the project and its significance. Provide a link if it's hosted elsewhere or has a dedicated repository.]
+1. **Africa Tourist**: A webpage showcasing some of Africa's best Tourist sites. [Project Repository](https://github.com/nimi11/Africa-Tourist)
+2. **Task Manager**: A web app allowing multiple users to create, edit, and delete tasks. [Project Repository](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-techdevs)
+3. **CruiseHub**: A web app that allows users to rent out their cars (linke airbnb) making rental cars more affordable and accesible. [Project Repository](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-techdevs)
 
-## Contributions
-
-I'm also passionate about open source. Here are some of my contributions:
-
-- [Contribution 1]: [Brief description of the contribution and its impact. Provide a link to the repository or resource.]
-- [Contribution 2]: [Brief description of the contribution and its impact. Provide a link to the repository or resource.]
-- [Contribution 3]: [Brief description of the contribution and its impact. Provide a link to the repository or resource.]
 
 ## Get in Touch
 
 I'm always open to collaborations and discussions. Feel free to reach out to me via:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: sonugatoluwanimi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/toluwanimisonuga/)
 - Twitter: [Your Twitter Handle]
-- Website/Blog: [Your Website or Blog URL]
 
 ## Let's Connect!
 
