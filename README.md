@@ -1,12 +1,12 @@
 # Hi I'm Tolu 👩‍💻 👋
 
-### 👋  Welcome to my GitHub profile. I'm passionate about [mention your interests, specialties, or the kind of work you do]. This space hosts some of my projects, experiments, and contributions. Feel free to explore and collaborate!
+### I'm passionate about web development and fostering tech interest in my community. This space hosts some of my projects, experiments, and contributions. Feel free to explore and collaborate!
 
 ## About Me
 
 - **Name**: Toluwanimi Sonuga
 - **Location**: Lagos, Nigeria 
-- **Interests**: [Your Interests, Hobbies, or Specializations]
+
 
 ## Projects Highlights
 
