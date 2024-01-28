@@ -23,7 +23,7 @@ I'm always open to collaborations and discussions. Feel free to reach out to me 
 
 - Email: sonugatoluwanimi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/toluwanimisonuga/)
-- Twitter: [Your Twitter Handle]
+- Twitter: [Toluwanimi Sonuga](https://twitter.com/ToluwanimiSonu1)
 
 ## Let's Connect!
 
