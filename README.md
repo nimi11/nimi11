@@ -12,8 +12,8 @@
 
 Here are some of the projects I've been working on:
 
-1. **Africa Tourist**: A webpage showcasing some of Africa's best Tourist sites. [Project Repository](https://github.com/nimi11/Africa-Tourist)
-2. **Task Manager**: A web app allowing multiple users to create, edit, and delete tasks. [Project Repository](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-techdevs) [app link](https://task-management-7gwo.onrender.com/)
+1. **Africa Tourist**: A webpage showcasing some of Africa's best Tourist sites. [Project Repository](https://github.com/nimi11/Africa-Tourist). [View the webpage](https://nimi11.github.io/Africa-Tourist/)
+2. **Task Manager**: A web app allowing multiple users to create, edit, and delete tasks. [Project Repository](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-techdevs).  [See the app](https://task-management-7gwo.onrender.com/)
 3. **CruiseHub**: A web app that allows users to rent out their cars (linke airbnb) making rental cars more affordable and accesible. [Project Repository](https://github.com/kibo-web-app-dev-oct-23/final-project-crud-app-techdevs)
 
 
